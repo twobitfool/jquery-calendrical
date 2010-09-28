@@ -299,7 +299,7 @@
                                             date.getTime() +
                                             endDate.getTime() -
                                             selected.getTime()
-                                        )
+										), options.usa
                                     ));
                                 }
                             }
